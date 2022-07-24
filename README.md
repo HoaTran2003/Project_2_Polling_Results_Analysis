@@ -27,16 +27,16 @@ The main function is where the program begins. It is used to call plotResults fu
 
 III. Results and conclusion: 
 
-[alt text](https://github.com/HoaTran2003/Project_2_Polling_Results_Analysis/blob/main/pol_size_per.png)
+[](https://github.com/HoaTran2003/Project_2_Polling_Results_Analysis/blob/main/pol_size_per.png)
 
 For a relatively small poll size of 1000, in 100 trials, we could see the changes in the high and low percentage in the graph above. The most noticeable trend is that when the poll number is below 200, the difference in the low and high percentage is significance. However, as the poll size increases, so does the difference between the two percentages. This means that as there are more people, the actual percentage of those who said yes, in the low and high end, increase to nearly 30%. The margin of error for this poll size is approximately + 3.85%, which is a relatively acceptable number. With this in mind, we could think of increasing the number to reduce the margin of errors to make it more reliable to apply the results to a larger population. 
 
-[alt text](https://github.com/HoaTran2003/Project_2_Polling_Results_Analysis/blob/main/images_projects_2.jpg)
+[](https://github.com/HoaTran2003/Project_2_Polling_Results_Analysis/blob/main/images_projects_2.jpg)
  
 In the same number of trials, if the poll size is 3000, the same trend for the two percentages can clearly be seen in the graph above. Both curve are approaching 30%, however, with a larger poll size, the two curves are nearer to the 30% mark compared to the previous graph (the one with 1000 people). The margin of error for this poll is + 2.25%, which is a really good number. This makes the results of the given poll more reliable compared to the previous one as there are less errors involved and both polls are surveyed with the same random sampling method. 
 ==> Therefore, if we want to balance a low margin of error with the labor involved in polling more people, a poll size of 3000 people would be reasonably acceptable as the margin of error of 2.25 is relatively low so we are more confident in the results. Although we know that by increasing the poll size to, let us say 5000 or even 10000 will produce a lower margin of error and make our results even more trustworthy, the challenges of polling so many people could be a great deterrent. This means that if we poll a large number of people, there could be many human factors involved which could affect our end results. 
 
- [alt text](https://github.com/HoaTran2003/Project_2_Polling_Results_Analysis/blob/main/margin_error.jpg)
+ [](https://github.com/HoaTran2003/Project_2_Polling_Results_Analysis/blob/main/margin_error.jpg)
 
 The above graph shows that for some cases, lower percentage seems to have a lower margin of error. However, this is not the overall trend as there are lots of fluctuations in between the margin of errors and the actual percentage. It also depicts that around the 60%, 68% and 77% mark, the margin of error are relatively low for such high percentages. There is also some high margin of error values for lower percentages, such as for 30%, the margin of error is around 3.5. All of this means that there are lots of variations in the relationship between these two values and no clear trend can be inferred from this graph. 
 ==> With this in mind, my answer from the previous sections would not change due to the drastic difference in the margin of errors for different value of actual percentage.
